@@ -1,4 +1,4 @@
-This code performs a series of preprocessing steps on point cloud data collected from a 3D LiDAR camera, with the goal of generating filtered point clouds, projecting them into 2D images, and transforming them into a specific 3D representation. Below is a brief explanation of its functionality:
+This code performs a series of preprocessing steps on point cloud data collected from a 3D ZED2 camera, with the goal of generating filtered point clouds, projecting them into 2D images, and transforming them into a specific 3D representation. Below is a brief explanation of its functionality:
 
 Dependencies:
 The code uses libraries such as numpy for numerical operations, open3d for point cloud processing, and cv2 for image processing. It also utilizes custom functionality from a module euclidean for clustering.
